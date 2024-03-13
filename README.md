@@ -10,8 +10,10 @@ pip install pynput
 
 Procedure
 
-Step1: Download the zip file and extract it.
+Step 1: Download the zip file and extract it.
 
-Step2: Run "main.py".
+Step 2: Run the "main.py" on Python IDE.
 
-Step3: Now automatic open "cmd dialog box".
+Step 3: Setup the python environment .
+
+Step 4: run the program
