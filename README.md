@@ -4,11 +4,11 @@ Develop a basic keylogger program that records and logs keystrokes. It captures 
 
 # For Windows
 
-Requirement
+#REQUIREMENT
 
-pip install pynput
+```pip install pynput```
 
-Procedure
+#HOW TO USE
 
 Step 1: Download the zip file and extract it.
 
