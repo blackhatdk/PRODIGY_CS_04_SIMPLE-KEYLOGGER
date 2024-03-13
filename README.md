@@ -8,6 +8,8 @@ Requirement
 
 pip install pynput
 
+Procedure
+
 Step1: Download the zip file and extract it.
 
 Step2: Run "main.py".
