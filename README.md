@@ -1,6 +1,6 @@
 # SIMPLE KEYLOGGER USING PYTHON
 
-Develop a basic keylogger program that records and logs keystrokes. It captures keys pressed by the user and saves them to a file. Ethical considerations and obtaining proper permissions are essential due to the sensitive nature of keylogging activities.
+A Simple keylogger is a type of software or hardware device that records the keystrokes made by a user on a computer or device. It captures all the keys pressed, including letters, numbers, special characters, and function keys, without the user's knowledge. The recorded keystrokes are typically stored in a log file, which can be accessed and reviewed by the individual who installed the keylogger. While keyloggers have legitimate uses, such as monitoring children's online activities or tracking employee productivity, they can also be used maliciously to steal sensitive information like passwords, credit card numbers, or personal messages. Therefore, the use of keyloggers raises significant ethical concerns, and their deployment should only be done with proper authorization and consent from all parties involved
 
 
 # For Windows
