@@ -32,13 +32,19 @@ Step 4: run the program
 Clone | Download the Repository => then open a terminal | command prompt to your project, and then run the app.py script and your keylogger should up spying on every keystroke you will ever write
 
 ```bash
-git clone
+git clone https://github.com/blackhatdk/PRODIGY_CS_04_SIMPLE-KEYLOGGER
+cd Downloads
+cd PRODIGY_CS_04_SIMPLE-KEYLOGGER
+pip install pynput
+python main.py
+```
 
 
-### Example 
+### Example For Windows 
 ![simple keylogger](https://github.com/blackhatdk/PRODIGY_CS_04_SIMPLE-KEYLOGGER/assets/134546586/8157d8e4-d457-4a66-b91f-e021814c0ed7)
 
 
+### Example For Linux
 
 
 
