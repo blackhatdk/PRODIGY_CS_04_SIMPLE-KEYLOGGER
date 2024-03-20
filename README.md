@@ -52,7 +52,7 @@ sudo python main.py
 
 ![Screenshot 2024-03-21 002735](https://github.com/blackhatdk/PRODIGY_CS_04_SIMPLE-KEYLOGGER/assets/134546586/70a375f2-e9e5-4f50-8c04-73b251d6317c)
 
-# Facing Issue ??
+# Contact
 If you're facing any issue with the usage of script, drop Mail to bktech1314@gmail.com .
 
 
