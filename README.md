@@ -7,7 +7,7 @@ A Simple keylogger is a type of software or hardware device that records the key
 This keylogger program is intended for legitimate and authorized use only. It is designed to assist in [state purpose, e.g., "monitoring children's online activities" or "tracking employee productivity"]. Any unauthorized use of this software is strictly prohibited. By installing and utilizing this program, you acknowledge and agree to adhere to all applicable laws and regulations governing the use of such software. You are solely responsible for obtaining proper consent from individuals whose activities you intend to monitor. The developers of this software shall not be held liable for any misuse or illegal activities conducted with this program.
 
 
-### Requirement
+# Requirement
 
 I recommended to run as python IDE like Pythoncharm,python.
 
