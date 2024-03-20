@@ -9,13 +9,16 @@ This keylogger program is intended for legitimate and authorized use only. It is
 
 # Requirement
 
-I recommend running the code in a Python IDE such as PyCharm or simply using Python.
-
-```pip install pynput```
+To install the package
+```
+pip install pynput
+```
 
 # For Windows
 
 ### HOW TO USE
+
+I recommend running the code in a Python IDE such as PyCharm or simply using Python.
 
 Step 1: Download the zip file and extract it.
 
@@ -23,9 +26,9 @@ Step 2: Run the "main.py" on Python IDE.
 
 Step 3: Setup the python environment .
 
-Step 4: run the program
+Step 4: run the program.
 
-### Example For Windows 
+### Output 
 
 ![simple keylogger](https://github.com/blackhatdk/PRODIGY_CS_04_SIMPLE-KEYLOGGER/assets/134546586/8157d8e4-d457-4a66-b91f-e021814c0ed7)
 
@@ -45,7 +48,7 @@ sudo python main.py
 
 
 
-### Example For Linux
+### Output
 
 ![Screenshot 2024-03-21 002735](https://github.com/blackhatdk/PRODIGY_CS_04_SIMPLE-KEYLOGGER/assets/134546586/70a375f2-e9e5-4f50-8c04-73b251d6317c)
 
