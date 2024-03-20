@@ -33,7 +33,7 @@ Step 4: run the program
 
 ### HOW TO USE
 
-Clone | Download the Repository => then open a terminal | command prompt to your project, and then run the app.py script and your keylogger should up spying on every keystroke you will ever write
+Clone | Download the Repository => then open a terminal | command prompt to your project, and then run the main.py script and your keylogger should up spying on every keystroke you will ever write
 
 ```bash
 sudo git clone https://github.com/blackhatdk/PRODIGY_CS_04_SIMPLE-KEYLOGGER
