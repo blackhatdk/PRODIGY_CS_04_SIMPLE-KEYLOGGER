@@ -9,7 +9,7 @@ This keylogger program is intended for legitimate and authorized use only. It is
 
 # Requirement
 
-I recommended to run as python IDE like Pythoncharm,python.
+I recommended to run as python IDE like Pythoncharm, python.
 
 ```pip install pynput```
 
